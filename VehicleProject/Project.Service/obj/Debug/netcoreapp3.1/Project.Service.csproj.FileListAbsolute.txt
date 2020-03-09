@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\VehicleProject\Project.Service\obj\Debug\netcoreapp3.1\Project.Service.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VehicleProject\Project.Service\obj\Debug\netcoreapp3.1\Project.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VehicleProject\Project.Service\obj\Debug\netcoreapp3.1\Project.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\VehicleProject\Project.Service\bin\Debug\netcoreapp3.1\Project.Service.deps.json
+C:\Users\User\source\repos\VehicleProject\Project.Service\bin\Debug\netcoreapp3.1\Project.Service.runtimeconfig.json
+C:\Users\User\source\repos\VehicleProject\Project.Service\bin\Debug\netcoreapp3.1\Project.Service.runtimeconfig.dev.json
+C:\Users\User\source\repos\VehicleProject\Project.Service\bin\Debug\netcoreapp3.1\Project.Service.dll
+C:\Users\User\source\repos\VehicleProject\Project.Service\bin\Debug\netcoreapp3.1\Project.Service.pdb
+C:\Users\User\source\repos\VehicleProject\Project.Service\obj\Debug\netcoreapp3.1\Project.Service.dll
+C:\Users\User\source\repos\VehicleProject\Project.Service\obj\Debug\netcoreapp3.1\Project.Service.pdb
